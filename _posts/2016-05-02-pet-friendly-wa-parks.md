@@ -21,6 +21,9 @@ The following Washington state parks offer pet friendly cabins and yurt rentals 
 * Steamboat Rock State Park
 * Twin Harbors State Park
 
+## recommended
+* lower johnny campsite site, Leavenworth, WA
+Upper is also lovely but I think lower, being closer to the river, would be a nicer experience. You can book but must show up within 24 hours or you could lose it.
 
 # Ref 
 * [converter](http://pandoc.org)
